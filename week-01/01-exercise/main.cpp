@@ -10,3 +10,7 @@ int main(){
         // Return value 0; program executed without errors
     return 0;
 }
+
+/*
+echo $? = echo %ERRORLEVEL%
+*/
