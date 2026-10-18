@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Year-2026%2F27-ff69b4?style=for-the-badge" alt="Year 2026/27">
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee-c084fc?style=for-the-badge" alt="Powered by Coffee">
   <img src="https://img.shields.io/badge/Bugs-Up%20for%20Negotiation-60a5fa?style=for-the-badge" alt="Bugs: Up for Negotiation">
   <img src="https://img.shields.io/badge/License-MIT-f9a8d4?style=for-the-badge" alt="MIT License">
 </p>
