@@ -20,7 +20,7 @@ This is my **learning repo for the course "Higher Programming Languages."** "Hig
 
 This is where my exercises, experiments, and maybe small triumphs land, **week by week**. And yes, the mistakes too, because without them this would be a very short repo. 😅
 
-> 💡 **My motto:** Coding works better with a dash of humor and a lot of heart.
+> 💡 **My motto:** "It is not the easy days that define our path, but the decisions we make on the difficult ones."
 
 ---
 
